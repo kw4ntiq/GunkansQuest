@@ -1,6 +1,6 @@
 # Gunkan's quest
 
-Play as Gunkans, defeat all the enemies on the island to win.
+Play as Gunkan, defeat all the enemies on the island to win.
 
 This project is my first unity project, made for our mid-semester exam.
 
